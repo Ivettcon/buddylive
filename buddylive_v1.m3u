@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2025-10-15 01:17:48
+# Last Updated: 2025-10-15 03:02:58
 #EXTINF:-1 group-title="NBA",10/14/25 07:00:00 PM EST = Detroit Pistons @ Cleveland Cavaliers
 https://v12.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=n2c5LZ4CkTcnHvaFLtX4qw&expires=1760507356&user_id=NXlOMXh6QjEyV2lTNnljWFRmaDNhWmRJdTBEak8wWXJ3eWsyUlhaeQ==
 #EXTINF:-1 group-title="NBA",10/14/25 08:00:00 PM EST = Oklahoma City Thunder @ Milwaukee Bucks
