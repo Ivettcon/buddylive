@@ -1,17 +1,17 @@
 #EXTM3U
 #EXTINF:-1 group-title="NHL",10/20/25 07:00:00 PM EST = Minnesota Wild @ New York Rangers
-https://e1.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=iwo5xCoeo09jpvJckm0BkA&expires=1761025646&user_id=SWZFT1lxR0VDdnYzTlB4bFFMRGFvSzRWQUNGYVplTmFiem9ZbTR4Yg==
+https://v3.thetvapp.to/hls/NHLNetwork/tracks-v1a1/mono.m3u8?token=-A6hogWZkIqyL_fzEe9ijw&expires=1761054453&user_id=RGNjYzVGVlVqTkVQMDN3QW1kbEI1OHdHUmRta0dtRUNKZUdCTzVqUw==
 #EXTINF:-1 group-title="NHL",10/20/25 07:00:00 PM EST = Seattle Kraken @ Philadelphia Flyers
-https://v1.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=3N_WOhf6z-D-HA8hnmDP-Q&expires=1761025656&user_id=SWZFT1lxR0VDdnYzTlB4bFFMRGFvSzRWQUNGYVplTmFiem9ZbTR4Yg==
+https://v3.thetvapp.to/hls/NHL21/tracks-v1a1/mono.m3u8?token=-lbZtybaC4GeLRACgWvh7Q&expires=1761054463&user_id=RGNjYzVGVlVqTkVQMDN3QW1kbEI1OHdHUmRta0dtRUNKZUdCTzVqUw==
 #EXTINF:-1 group-title="NHL",10/20/25 07:30:00 PM EST = Buffalo Sabres @ Montréal Canadiens
-https://v14.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=i8ZAvrwnPzqPJbWG_zG6yw&expires=1761025666&user_id=SWZFT1lxR0VDdnYzTlB4bFFMRGFvSzRWQUNGYVplTmFiem9ZbTR4Yg==
+https://v2.thetvapp.to/hls/NHL17/tracks-v1a1/mono.m3u8?token=xt_sphq_nYbAPOt6VtNESQ&expires=1761054473&user_id=RGNjYzVGVlVqTkVQMDN3QW1kbEI1OHdHUmRta0dtRUNKZUdCTzVqUw==
 #EXTINF:-1 group-title="NHL",10/20/25 09:30:00 PM EST = Winnipeg Jets @ Calgary Flames
-https://v14.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=J-ns3KyBgbh5Bwk-epJ-Sg&expires=1761025677&user_id=SWZFT1lxR0VDdnYzTlB4bFFMRGFvSzRWQUNGYVplTmFiem9ZbTR4Yg==
+https://v18.thetvapp.to/hls/NHL02/tracks-v1a1/mono.m3u8?token=oaLmng-wPZVMbPOIS5OiGA&expires=1761054484&user_id=RGNjYzVGVlVqTkVQMDN3QW1kbEI1OHdHUmRta0dtRUNKZUdCTzVqUw==
 #EXTINF:-1 group-title="NHL",10/20/25 10:00:00 PM EST = Carolina Hurricanes @ Vegas Golden Knights
-https://e1.thetvapp.to/hls/NHL28/tracks-v1a1/mono.m3u8?token=RnRD_dPCXwH87LemUY4y4Q&expires=1761025687&user_id=SWZFT1lxR0VDdnYzTlB4bFFMRGFvSzRWQUNGYVplTmFiem9ZbTR4Yg==
+https://v2.thetvapp.to/hls/NHL28/tracks-v1a1/mono.m3u8?token=aFPWBpaHP93Jvod7cL8oyg&expires=1761054494&user_id=RGNjYzVGVlVqTkVQMDN3QW1kbEI1OHdHUmRta0dtRUNKZUdCTzVqUw==
 #EXTINF:-1 group-title="NFL",10/20/25 07:00:00 PM EST = Tampa Bay Buccaneers @ Detroit Lions
-https://e5.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=5OeCVe9AC9d4oFpe3VNMJw&expires=1761025697&user_id=SWZFT1lxR0VDdnYzTlB4bFFMRGFvSzRWQUNGYVplTmFiem9ZbTR4Yg==
+https://v1.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=0UOtP1HvnMAD5NzlgXZTfg&expires=1761054504&user_id=RGNjYzVGVlVqTkVQMDN3QW1kbEI1OHdHUmRta0dtRUNKZUdCTzVqUw==
 #EXTINF:-1 group-title="NFL",10/20/25 10:00:00 PM EST = Houston Texans @ Seattle Seahawks
-https://v3.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=dViqS3PqR6xgm11ywerV7w&expires=1761025708&user_id=SWZFT1lxR0VDdnYzTlB4bFFMRGFvSzRWQUNGYVplTmFiem9ZbTR4Yg==
+https://v17.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=fb8bjWruvMZu87vySLslSQ&expires=1761054515&user_id=RGNjYzVGVlVqTkVQMDN3QW1kbEI1OHdHUmRta0dtRUNKZUdCTzVqUw==
 #EXTINF:-1 group-title="MLB",10/20/25 08:08:00 PM EST = Seattle Mariners @ Toronto Blue Jays
-https://e4.thetvapp.to/hls/FoxSports1/tracks-v1a1/mono.m3u8?token=45QsewnIEf9bXeUFLbwQjg&expires=1761025718&user_id=SWZFT1lxR0VDdnYzTlB4bFFMRGFvSzRWQUNGYVplTmFiem9ZbTR4Yg==
+https://v8.thetvapp.to/hls/FoxSports1/tracks-v1a1/mono.m3u8?token=a23gfw6mBBOwg-rpLGkhyw&expires=1761054525&user_id=RGNjYzVGVlVqTkVQMDN3QW1kbEI1OHdHUmRta0dtRUNKZUdCTzVqUw==
