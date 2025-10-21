@@ -1,17 +1,29 @@
 #EXTM3U
-#EXTINF:-1 group-title="NHL",10/20/25 07:00:00 PM EST = Minnesota Wild @ New York Rangers
-https://v3.thetvapp.to/hls/NHLNetwork/tracks-v1a1/mono.m3u8?token=-A6hogWZkIqyL_fzEe9ijw&expires=1761054453&user_id=RGNjYzVGVlVqTkVQMDN3QW1kbEI1OHdHUmRta0dtRUNKZUdCTzVqUw==
-#EXTINF:-1 group-title="NHL",10/20/25 07:00:00 PM EST = Seattle Kraken @ Philadelphia Flyers
-https://v3.thetvapp.to/hls/NHL21/tracks-v1a1/mono.m3u8?token=-lbZtybaC4GeLRACgWvh7Q&expires=1761054463&user_id=RGNjYzVGVlVqTkVQMDN3QW1kbEI1OHdHUmRta0dtRUNKZUdCTzVqUw==
-#EXTINF:-1 group-title="NHL",10/20/25 07:30:00 PM EST = Buffalo Sabres @ Montréal Canadiens
-https://v2.thetvapp.to/hls/NHL17/tracks-v1a1/mono.m3u8?token=xt_sphq_nYbAPOt6VtNESQ&expires=1761054473&user_id=RGNjYzVGVlVqTkVQMDN3QW1kbEI1OHdHUmRta0dtRUNKZUdCTzVqUw==
-#EXTINF:-1 group-title="NHL",10/20/25 09:30:00 PM EST = Winnipeg Jets @ Calgary Flames
-https://v18.thetvapp.to/hls/NHL02/tracks-v1a1/mono.m3u8?token=oaLmng-wPZVMbPOIS5OiGA&expires=1761054484&user_id=RGNjYzVGVlVqTkVQMDN3QW1kbEI1OHdHUmRta0dtRUNKZUdCTzVqUw==
-#EXTINF:-1 group-title="NHL",10/20/25 10:00:00 PM EST = Carolina Hurricanes @ Vegas Golden Knights
-https://v2.thetvapp.to/hls/NHL28/tracks-v1a1/mono.m3u8?token=aFPWBpaHP93Jvod7cL8oyg&expires=1761054494&user_id=RGNjYzVGVlVqTkVQMDN3QW1kbEI1OHdHUmRta0dtRUNKZUdCTzVqUw==
-#EXTINF:-1 group-title="NFL",10/20/25 07:00:00 PM EST = Tampa Bay Buccaneers @ Detroit Lions
-https://v1.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=0UOtP1HvnMAD5NzlgXZTfg&expires=1761054504&user_id=RGNjYzVGVlVqTkVQMDN3QW1kbEI1OHdHUmRta0dtRUNKZUdCTzVqUw==
-#EXTINF:-1 group-title="NFL",10/20/25 10:00:00 PM EST = Houston Texans @ Seattle Seahawks
-https://v17.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=fb8bjWruvMZu87vySLslSQ&expires=1761054515&user_id=RGNjYzVGVlVqTkVQMDN3QW1kbEI1OHdHUmRta0dtRUNKZUdCTzVqUw==
-#EXTINF:-1 group-title="MLB",10/20/25 08:08:00 PM EST = Seattle Mariners @ Toronto Blue Jays
-https://v8.thetvapp.to/hls/FoxSports1/tracks-v1a1/mono.m3u8?token=a23gfw6mBBOwg-rpLGkhyw&expires=1761054525&user_id=RGNjYzVGVlVqTkVQMDN3QW1kbEI1OHdHUmRta0dtRUNKZUdCTzVqUw==
+#EXTINF:-1 group-title="NCAAF",10/21/25 07:00:00 PM EST = Kennesaw State Owls @ Florida International Panthers
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NCAAF",10/21/25 07:30:00 PM EST = Western Kentucky Hilltoppers @ Louisiana Tech Bulldogs
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NHL",10/21/25 07:10:00 PM EST = Edmonton Oilers @ Ottawa Senators
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NHL",10/21/25 07:10:00 PM EST = New Jersey Devils @ Toronto Maple Leafs
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NHL",10/21/25 07:10:00 PM EST = San Jose Sharks @ New York Islanders
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NHL",10/21/25 07:10:00 PM EST = Vancouver Canucks @ Pittsburgh Penguins
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NHL",10/21/25 07:10:00 PM EST = Seattle Kraken @ Washington Capitals
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NHL",10/21/25 07:40:00 PM EST = Florida Panthers @ Boston Bruins
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NHL",10/21/25 08:10:00 PM EST = Anaheim Ducks @ Nashville Predators
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NHL",10/21/25 08:10:00 PM EST = Columbus Blue Jackets @ Dallas Stars
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NHL",10/21/25 08:10:00 PM EST = Los Angeles Kings @ St Louis Blues
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NHL",10/21/25 10:10:00 PM EST = Colorado Avalanche @ Utah Mammoth
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NBA",10/21/25 07:35:00 PM EST = Houston Rockets @ Oklahoma City Thunder
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NBA",10/21/25 10:00:00 PM EST = Golden State Warriors @ Los Angeles Lakers
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
