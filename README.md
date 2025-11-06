@@ -24,7 +24,6 @@
 
 ⭐M3U-With_EPG: https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/buddylive_v1.m3u
 
----------------------------------------------
 
 `Alt Playlist and Epg:`
 
@@ -34,15 +33,21 @@ EPG: https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads
 
 Credit: https://github.com/mikekaprielian
 
+---------------------------------------------
+
 
 ##  📺 TheTVApp.to (SD/HD) (SD STAYS LIVE) No High Volume Warning.
 
 ⭐M3U: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/TheTVApp.m3u8
 
 
+---------------------------------------------
+
 ##  📺 Pluto, Samsung, Stirr, Plex, Tubi, Roku (Playlist & EPG)
 
 Link: https://github.com/BuddyChewChew/app-m3u-generator/tree/main/playlists
+
+---------------------------------------------
 
 
 ##  📺 Local Now  (Playlist & EPG)
@@ -52,9 +57,13 @@ Link: https://github.com/BuddyChewChew/app-m3u-generator/tree/main/playlists
 ⭐EPG: https://raw.githubusercontent.com/BuddyChewChew/localnow-playlist-generator/refs/heads/main/epg.xml
 
 
+---------------------------------------------
+
 ##  📺 Xumo (Playlist & EPG)
 
 ⭐M3U: https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/refs/heads/main/playlists/xumo_playlist.m3u
+
+---------------------------------------------
 
 
 ##  Website: https://ppv.zone/
@@ -64,9 +73,13 @@ Link: https://github.com/BuddyChewChew/app-m3u-generator/tree/main/playlists
 ##  Website:  https://pixelsport.tv/
 💥  M3U: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Pixelsports.m3u8 
 
+
+---------------------------------------------
+
 ## GREAT EPG TO USE TO FILL HOLES
 
 XTRA EPG: https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz
+
 
 
 
