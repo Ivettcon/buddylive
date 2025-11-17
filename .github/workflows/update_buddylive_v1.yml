@@ -2,8 +2,8 @@ name: ▶️ Update buddylive_v1
 
 on:
   schedule:
-    # Runs at the start of every hour
-    - cron: '0 * * * *'
+    # fixed run
+    - cron: '30 * * * *'  # 30 mins past every hour
   # Allow manual triggering
   workflow_dispatch:
 
