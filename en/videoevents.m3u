@@ -1,53 +1,31 @@
 #EXTM3U
-#EXTINF:-1 group-title="NHL",11/16/25 09:15:00 AM EST = Nashville Predators @ Pittsburgh Penguins
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NHL",11/16/25 05:10:00 PM EST = Vancouver Canucks @ Tampa Bay Lightning
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NHL",11/16/25 06:10:00 PM EST = Vegas Golden Knights @ Minnesota Wild
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NHL",11/16/25 07:10:00 PM EST = Detroit Red Wings @ New York Rangers
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NHL",11/16/25 09:10:00 PM EST = New York Islanders @ Colorado Avalanche
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NFL",11/16/25 09:30:00 AM EST = Washington Commanders @ Miami Dolphins
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NFL",11/16/25 01:00:00 PM EST = Los Angeles Chargers @ Jacksonville Jaguars
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NFL",11/16/25 01:00:00 PM EST = Houston Texans @ Tennessee Titans
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NFL",11/16/25 01:00:00 PM EST = Green Bay Packers @ New York Giants
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NFL",11/16/25 01:00:00 PM EST = Cincinnati Bengals @ Pittsburgh Steelers
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NFL",11/16/25 01:00:00 PM EST = Chicago Bears @ Minnesota Vikings
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NFL",11/16/25 01:00:00 PM EST = Tampa Bay Buccaneers @ Buffalo Bills
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NFL",11/16/25 01:00:00 PM EST = Carolina Panthers @ Atlanta Falcons
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NFL",11/16/25 04:05:00 PM EST = San Francisco 49ers @ Arizona Cardinals
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NFL",11/16/25 04:05:00 PM EST = Seattle Seahawks @ Los Angeles Rams
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NFL",11/16/25 04:25:00 PM EST = Baltimore Ravens @ Cleveland Browns
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NFL",11/16/25 04:25:00 PM EST = Kansas City Chiefs @ Denver Broncos
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NFL",11/16/25 08:20:00 PM EST = Detroit Lions @ Philadelphia Eagles
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NBA",11/16/25 03:30:00 PM EST = Los Angeles Clippers @ Boston Celtics
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NBA",11/16/25 04:00:00 PM EST = Sacramento Kings @ San Antonio Spurs
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NBA",11/16/25 06:00:00 PM EST = Brooklyn Nets @ Washington Wizards
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NBA",11/16/25 07:00:00 PM EST = Orlando Magic @ Houston Rockets
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NBA",11/16/25 07:00:00 PM EST = Golden State Warriors @ New Orleans Pelicans
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NBA",11/16/25 07:30:00 PM EST = Portland Trail Blazers @ Dallas Mavericks
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NBA",11/16/25 08:00:00 PM EST = Chicago Bulls @ Utah Jazz
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
-#EXTINF:-1 group-title="NBA",11/16/25 08:00:00 PM EST = Atlanta Hawks @ Phoenix Suns
-https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 group-title="NBA",11/17/25 07:00:00 PM EST = Milwaukee Bucks @ Cleveland Cavaliers
+https://v14.thetvapp.to/hls/NBA16/tracks-v1a1/mono.m3u8?token=zLVKr2rfIlRj9CMajxR2JA&expires=1763419293&user_id=T0NPamVXYWpqN3NVMVhMcWo1amhkVnJWdEJmM2ZaSWZwdHpLQVVDNA==
+#EXTINF:-1 group-title="NBA",11/17/25 07:00:00 PM EST = Indiana Pacers @ Detroit Pistons
+https://e1.thetvapp.to/hls/NBA23/tracks-v1a1/mono.m3u8?token=cp0k2m9TaWuVtqP7NyiuhQ&expires=1763419303&user_id=T0NPamVXYWpqN3NVMVhMcWo1amhkVnJWdEJmM2ZaSWZwdHpLQVVDNA==
+#EXTINF:-1 group-title="NBA",11/17/25 07:10:00 PM EST = Los Angeles Clippers @ Philadelphia 76ers
+https://v4.thetvapp.to/hls/NBA07/tracks-v1a1/mono.m3u8?token=Sd8lJLA31KiTZAE2ELM1rQ&expires=1763419313&user_id=T0NPamVXYWpqN3NVMVhMcWo1amhkVnJWdEJmM2ZaSWZwdHpLQVVDNA==
+#EXTINF:-1 group-title="NBA",11/17/25 07:30:00 PM EST = Charlotte Hornets @ Toronto Raptors
+https://v5.thetvapp.to/hls/NBA13/tracks-v1a1/mono.m3u8?token=8LxZSy9mjfx2Exg9t0hJ-Q&expires=1763419324&user_id=T0NPamVXYWpqN3NVMVhMcWo1amhkVnJWdEJmM2ZaSWZwdHpLQVVDNA==
+#EXTINF:-1 group-title="NBA",11/17/25 07:30:00 PM EST = New York Knicks @ Miami Heat
+https://v8.thetvapp.to/hls/NBA08/tracks-v1a1/mono.m3u8?token=YrqUYh6rzSxgU9gVyz8i4w&expires=1763419334&user_id=T0NPamVXYWpqN3NVMVhMcWo1amhkVnJWdEJmM2ZaSWZwdHpLQVVDNA==
+#EXTINF:-1 group-title="NBA",11/17/25 08:00:00 PM EST = Dallas Mavericks @ Minnesota Timberwolves
+https://e3.thetvapp.to/hls/NBA21/tracks-v1a1/mono.m3u8?token=9vzzUG19r1mT-IGy7uZJbA&expires=1763419344&user_id=T0NPamVXYWpqN3NVMVhMcWo1amhkVnJWdEJmM2ZaSWZwdHpLQVVDNA==
+#EXTINF:-1 group-title="NBA",11/17/25 08:10:00 PM EST = Oklahoma City Thunder @ New Orleans Pelicans
+https://e3.thetvapp.to/hls/NBA22/tracks-v1a1/mono.m3u8?token=8LdoErBWrQ-t44XGD_uqZg&expires=1763419355&user_id=T0NPamVXYWpqN3NVMVhMcWo1amhkVnJWdEJmM2ZaSWZwdHpLQVVDNA==
+#EXTINF:-1 group-title="NBA",11/17/25 09:10:00 PM EST = Chicago Bulls @ Denver Nuggets
+https://e2.thetvapp.to/hls/NBA04/tracks-v1a1/mono.m3u8?token=kFhbnp7CrOD5wU_KHHnrDw&expires=1763419365&user_id=T0NPamVXYWpqN3NVMVhMcWo1amhkVnJWdEJmM2ZaSWZwdHpLQVVDNA==
+#EXTINF:-1 group-title="NHL",11/17/25 07:10:00 PM EST = Carolina Hurricanes @ Boston Bruins
+https://v12.thetvapp.to/hls/NHL03/tracks-v1a1/mono.m3u8?token=2YOhQeBP_H1Gt87caP-KQA&expires=1763419376&user_id=T0NPamVXYWpqN3NVMVhMcWo1amhkVnJWdEJmM2ZaSWZwdHpLQVVDNA==
+#EXTINF:-1 group-title="NHL",11/17/25 07:10:00 PM EST = Edmonton Oilers @ Buffalo Sabres
+https://e2.thetvapp.to/hls/NHL15/tracks-v1a1/mono.m3u8?token=ZtzpKLzg2INXzuexdbyY4Q&expires=1763419386&user_id=T0NPamVXYWpqN3NVMVhMcWo1amhkVnJWdEJmM2ZaSWZwdHpLQVVDNA==
+#EXTINF:-1 group-title="NHL",11/17/25 07:10:00 PM EST = Vancouver Canucks @ Florida Panthers
+https://v5.thetvapp.to/hls/NHL31/tracks-v1a1/mono.m3u8?token=Y8eYCorN2RtO3WnNzm3UlA&expires=1763419396&user_id=T0NPamVXYWpqN3NVMVhMcWo1amhkVnJWdEJmM2ZaSWZwdHpLQVVDNA==
+#EXTINF:-1 group-title="NHL",11/17/25 07:10:00 PM EST = Los Angeles Kings @ Washington Capitals
+https://v8.thetvapp.to/hls/NHL30/tracks-v1a1/mono.m3u8?token=C_0JxeZ4sK2LBb9c9DWIzQ&expires=1763419407&user_id=T0NPamVXYWpqN3NVMVhMcWo1amhkVnJWdEJmM2ZaSWZwdHpLQVVDNA==
+#EXTINF:-1 group-title="NHL",11/17/25 07:40:00 PM EST = Montréal Canadiens @ Columbus Blue Jackets
+https://v2.thetvapp.to/hls/NHL20/tracks-v1a1/mono.m3u8?token=rkPj942HLEyhfLDb3bxP5g&expires=1763419417&user_id=T0NPamVXYWpqN3NVMVhMcWo1amhkVnJWdEJmM2ZaSWZwdHpLQVVDNA==
+#EXTINF:-1 group-title="NHL",11/17/25 10:10:00 PM EST = Utah Mammoth @ Anaheim Ducks
+https://v14.thetvapp.to/hls/NHL25/tracks-v1a1/mono.m3u8?token=gpzkfIjkM9uFbA0V1YkrzQ&expires=1763419427&user_id=T0NPamVXYWpqN3NVMVhMcWo1amhkVnJWdEJmM2ZaSWZwdHpLQVVDNA==
+#EXTINF:-1 group-title="NFL",11/17/25 08:15:00 PM EST = Dallas Cowboys @ Las Vegas Raiders
+https://v12.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=_gC4jAmeJzwJOFPBI6ZWzw&expires=1763419437&user_id=T0NPamVXYWpqN3NVMVhMcWo1amhkVnJWdEJmM2ZaSWZwdHpLQVVDNA==
