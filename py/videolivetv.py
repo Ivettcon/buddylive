@@ -143,11 +143,11 @@ channel_logos = {
     "USA Network": "https://cdn.tvpassport.com/image/station/240x135/v2/s11207_h15_af.png",
     "VH1": "https://cdn.tvpassport.com/image/station/240x135/v2/s11218_h15_ac.png",
     "VICE": "https://cdn.tvpassport.com/image/station/240x135/v2/s18822_h15_ac.png",
-    "WABC (New York) ABC East": "https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png",
-    "WCBS (New York) CBS East": "https://cdn.tvpassport.com/image/station/240x135/v2/s10098_h15_ac.png",
+    "WABC (New York) ABC East": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/tv/abc-blue-us.png?raw=true",
+    "WCBS (New York) CBS East": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/tv/cbs-logo-white-us.png?raw=true",
     "WE tv": "https://cdn.tvpassport.com/image/station/240x135/v2/s59296_h15_aa.png",
-    "WNBC (New York) NBC East": "https://cdn.tvpassport.com/image/station/240x135/v2/s10991_h15_ad.png",
-    "WNYW (New York) FOX East": "https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png"
+    "WNBC (New York) NBC East": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/tv/nbc-logo-alt-us.png?raw=true",
+    "WNYW (New York) FOX East": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/tv/FOXRED.png?raw=true"
 
     # Add more channel IDs and names as needed
 }
