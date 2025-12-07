@@ -19,7 +19,7 @@
 
 ---------------------------------------------
 
-##  📺 TheTVApp.to (SD STAYS LIVE) No High Volume Warning. 
+##  📺 TheTVApp.to (SD)
 
 
 ⭐M3U-With_EPG: https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/buddylive_v1.m3u
@@ -36,7 +36,7 @@ Credit: https://github.com/mikekaprielian
 ---------------------------------------------
 
 
-##  📺 TheTVApp.to (SD/HD) (SD STAYS LIVE) No High Volume Warning.
+##  📺 TheTVApp.to (SD/HD)
 
 ⭐M3U: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/TheTVApp.m3u8
 
@@ -94,6 +94,7 @@ XTRA EPG: https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz
 > External Links Disclaimer: This repository contains links to third-party websites or content. We do not control, endorse, or assume responsibility for the content, privacy policies, or practices of any third-party websites or services.
 >
 > Always review and test any code or links before implementing them in your projects. You assume all risks associated with the implementation of this information.
+
 
 
 
