@@ -67,14 +67,21 @@ Link: https://github.com/BuddyChewChew/app-m3u-generator/tree/main/playlists
 
 ##  📺 (SPORTS)
 
-Website: https://ppv.zone
+## :new: LIVE EVENTS (SPORTS)
 
-💥 M3U: ~~https://raw.githubusercontent.com/BuddyChewChew/ppv/refs/heads/main/PPVLand.m3u8~~
+PLAYLIST: https://raw.githubusercontent.com/BuddyChewChew/sports/refs/heads/main/liveeventsfilter.m3u8
 
+## :new: ROXIE STREAMS (SPORTS)
 
-Website:  https://pixelsport.tv
+WEBSITE: https://roxiestreams.live
 
-💥  M3U: ~~https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Pixelsports.m3u8~~ 
+PLAYLIST: https://raw.githubusercontent.com/BuddyChewChew/sports/refs/heads/main/Roxiestreams.m3u
+
+## :new: ISTPLAY STREAMS (SPORTS)
+
+WEBSITE: 
+
+PLAYLIST: https://raw.githubusercontent.com/BuddyChewChew/sports/refs/heads/main/istplay_streams.m3u
 
 
 ---------------------------------------------
@@ -94,6 +101,7 @@ XTRA EPG: https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz
 > External Links Disclaimer: This repository contains links to third-party websites or content. We do not control, endorse, or assume responsibility for the content, privacy policies, or practices of any third-party websites or services.
 >
 > Always review and test any code or links before implementing them in your projects. You assume all risks associated with the implementation of this information.
+
 
 
 
