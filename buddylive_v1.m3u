@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2026-01-30 09:04:21
+# Last Updated: 2026-01-30 10:01:09
 #EXTINF:-1 group-title="NHL",01/29/26 07:00:00 PM EST = Winnipeg Jets @ Tampa Bay Lightning
 https://e2.thetvapp.to/hls/NHL01/tracks-v1a1/mono.m3u8?token=mT9hWyH9PzHHV9wn0XD7eg&expires=1769771665&user_id=bG9Fb2R6WVp1b21RSjNSQVRNMWxhMTJEaER4TEMzcVd2REsxem56bw==
 #EXTINF:-1 group-title="NHL",01/29/26 07:00:00 PM EST = New York Islanders @ New York Rangers
