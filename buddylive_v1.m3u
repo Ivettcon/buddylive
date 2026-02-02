@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2026-02-02 18:03:07
+# Last Updated: 2026-02-02 23:50:38
 #EXTINF:-1 group-title="NBA",02/02/26 03:10:00 PM EST = New Orleans Pelicans @ Charlotte Hornets
 https://v18.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=RBCDSFZBED8Z_lBiGDo2mg&expires=1770073195&user_id=NDVpeHM3bGVGMjR3VnprN216a25GWFJxYXk2NzViVm44bjU2cE1QRw==
 #EXTINF:-1 group-title="NBA",02/02/26 07:10:00 PM EST = Houston Rockets @ Indiana Pacers
