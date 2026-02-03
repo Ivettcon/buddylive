@@ -6,9 +6,17 @@
 
 ---------------------------------------------
 
-📌 Discord: https://discord.gg/fnsWGDy2mm
-
-🍺 https://buymeacoffee.com/buddychewchew
+<p align="center">
+  <a href="https://discord.gg/fnsWGDy2mm">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://buymeacoffee.com/buddychewchew">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+  </a>
+  <a href="https://github.com/BuddyChewChew/My-Streams/blob/main/Donate/readme.md">
+    <img src="https://img.shields.io/badge/Donate%20In%20Crypto-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Donate In Crypto">
+  </a>
+</p>
 
 ---------------------------------------------
 
@@ -101,6 +109,7 @@ XTRA EPG: https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz
 > External Links Disclaimer: This repository contains links to third-party websites or content. We do not control, endorse, or assume responsibility for the content, privacy policies, or practices of any third-party websites or services.
 >
 > Always review and test any code or links before implementing them in your projects. You assume all risks associated with the implementation of this information.
+
 
 
 
