@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2026-02-07 18:59:15
+# Last Updated: 2026-02-07 19:43:11
 #EXTINF:-1 group-title="PPV",02/07/26 12:10:00 PM EST = UFC Fight Night Bautista v Oliveira
 https://v5.thetvapp.to/hls/PPV01/tracks-v1a1/mono.m3u8?token=-uCmBJROW5LdVJDBX6ncvw&expires=1770504502&user_id=UFNUdEVkR3cxaGswN1Fic1B1UHJBRmNCcHJhT1NzSVl1VEMzeEc1WA==
 #EXTINF:-1 group-title="NBA",02/07/26 03:10:00 PM EST = Washington Wizards @ Brooklyn Nets
