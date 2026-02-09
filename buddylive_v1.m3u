@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2026-02-09 21:03:17
+# Last Updated: 2026-02-09 22:01:52
 #EXTINF:-1 group-title="NBA",02/09/26 07:10:00 PM EST = Detroit Pistons @ Charlotte Hornets
 https://v16.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=fm7DJvhTnolmjioSN0_pXg&expires=1770678868&user_id=cWMzNFM5R2xOd0hHTnRCWGMxSm5lZmVhTG9xNXk5eFVOeUI0WjJjaA==
 #EXTINF:-1 group-title="NBA",02/09/26 07:40:00 PM EST = Chicago Bulls @ Brooklyn Nets
