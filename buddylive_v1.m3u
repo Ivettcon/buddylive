@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml"
-# Last Updated: 2026-02-10 23:59:59
+# Last Updated: 2026-02-11 03:29:47
 #EXTINF:-1 group-title="NBA",02/10/26 07:40:00 PM EST = Indiana Pacers @ New York Knicks
 https://v3.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=2ghbO04fqhYymFkcSV7VcA&expires=1770785907&user_id=MjAwMGxtNU5XTVpwdVVSS1FXaUhDZHMwYTlaSnYxd2k5b1ZBaWNORQ==
 #EXTINF:-1 group-title="NBA",02/10/26 08:10:00 PM EST = Los Angeles Clippers @ Houston Rockets
